@@ -15,10 +15,8 @@ int main()
 
     celsius = lower;
 
-    // additions to sample code start here
     printf("  C  |   F\n");
     printf("-----|------\n");
-    // additions end here
 
     while (celsius <= upper)
     {
@@ -28,5 +26,4 @@ int main()
     }
 }
 
-// Created a heading for the temperature converter
-// Took the liberty of adding some other visuals as well
+// The process to convert C to F is slightly different, but not major
