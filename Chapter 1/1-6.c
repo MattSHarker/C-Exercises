@@ -1,6 +1,6 @@
 
 // Matthew Harker
-// Chapter 1 Exercise 5
+// Chapter 1 Exercise 6
 
 #include <stdio.h>
 
