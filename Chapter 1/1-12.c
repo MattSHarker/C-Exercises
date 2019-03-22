@@ -13,6 +13,8 @@ int main()
 
     state = OUT;
 
+    printf("Enter string\n");
+
     while((c = getchar()) != EOF)
     {
         if ((c == ' ' || c == '\t' || c == '\n'))
